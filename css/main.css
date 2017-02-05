@@ -1,0 +1,47 @@
+.percent{
+	width: 100%;
+}
+
+.breadcrumb .active{font-size: 20px;text-indent: 2em;}
+
+
+.screen{margin:30px auto 50px;background:#f5f5f5;border-radius: 4px;-moz-border-radius: 4px;}
+.checkedBox{background:#f5f5f5;padding:0 15px 0 15px; font-size:22px;overflow:hidden;border-radius: 4px;-moz-border-radius: 4px;}
+.checkedBox dt{color:#454444;line-height:55px;float:left;}
+.checkedBox dd{float:left;padding:15px 8px 0 0;}
+.checkedBox dd a{color:#608acc;background:url(../img/1.gif) right #fff no-repeat;overflow:hidden; display:block; float:left;height:24px;line-height:23px;font-size: 17px;border:1px solid #b4c6dc;padding:0 20px 0 5px;}
+.checkedBox dd a:hover{color:#47b4eb;background:url(../img/2.gif) right #fff no-repeat;border:1px solid #79bfe2;}
+.screenList{font-size:22px;padding:0 10px 0 17px;}
+.screenItem{/*border-bottom:1px solid #999999;*/ overflow:hidden;/*zoom:1;*/}
+.screenItem dt{ float:left; line-height:24px;}
+.screenItem dd{ float:left; line-height:24px; padding-right:8px;font-size: 17px;}
+.screenList a{padding-left:5px;}
+
+
+.daycount i,.sightcount i{width: 16px;
+			height: 16px;
+			overflow: hidden;
+			display: inline-block;
+			margin-right: 8px;
+			background: url(http://pages.c-ctrip.com/gs_static/journey2/img/journeys_v2.png?t=e21d92971f0f89bb2cbc2141724348bb) no-repeat -96px 0;
+			vertical-align: text-top;
+}
+/*.sightcount i{
+			width: 16px;
+			height: 16px;
+			overflow: hidden;
+			display: inline-block;
+			margin-right: 8px;
+			background: url(http://pages.c-ctrip.com/gs_static/journey2/img/journeys_v2.png?t=e21d92971f0f89bb2cbc2141724348bb) no-repeat -96px 0;
+			vertical-align: text-top;
+}*/
+em, i, q, cite, address, var {
+font-style: normal;}
+
+.xcjs{height: 210px;}
+
+
+.page-header {
+    padding-bottom: 9px;
+    margin: 10px 0 0px;
+}
